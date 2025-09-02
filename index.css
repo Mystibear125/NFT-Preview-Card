@@ -15,7 +15,7 @@ body{
 }
 main{
     background-color: hsl(216, 50%, 16%);
-    width: 23rem;
+    width: 20rem;
     border-radius: 12px;
     padding: 1.5rem;
     box-shadow: 15px 30px 35px 20px rgba(0, 0, 0, 0.18);
